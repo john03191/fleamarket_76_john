@@ -34,7 +34,7 @@ Basic認証をかけています。閲覧時は以下のIDとPassを入力して
 ## 💻機能詳細
 ##               〜トップページ〜
 CSSのみを使ったドロップダウンメニューがある。
-![](https://gyazo.com/496548384540199bba7c17f543df1f6e.jpg)
+![Alt Text](https://gyazo.com/376cbfab845facf9c3d20646056456d9)
 
 
 ##               〜新規会員登録機能〜
@@ -46,6 +46,8 @@ CSSのみを使ったドロップダウンメニューがある。
 ##               〜商品出品機能〜
 会員登録すれば商品を出品する事ができる。商品画像は10枚まで登録できる。商品の状態や発送方法などを細かく設定できる。
 ![Alt Text](https://gyazo.com/7b03eaeee0e4515bc253089469521029.gif)
+カテゴリ一覧表示
+![Alt Text](https://gyazo.com/0d304c8e5b5ffd222897b7ebf38d5bba)
 
 
 ##               〜商品詳細ページ〜
@@ -61,6 +63,11 @@ CSSのみを使ったドロップダウンメニューがある。
 ##               〜商品購入機能〜
 仮想クレジットPayjpを使い仮想的に商品購入できる。購入した商品にはSOLDマークがつき購入できなくなる。
 ![Alt Text](https://gyazo.com/5bffa5b51113b7b384fd1591c84e7d24.gif)
+
+## 隠しページ
+どこかにブランド編集ページがあります。探してみてください
+![Alt Text](https://gyazo.com/1faacda9002c990acad053fdee15cbf1)
+
 
 
 ## 📝DB設計
